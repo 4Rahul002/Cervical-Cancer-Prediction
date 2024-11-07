@@ -4,13 +4,13 @@ In this project, built and trained an XG-Boost classifier to predict whether a p
 
 
 
-#Install Necessary Modules:
+# Install Necessary Modules:
 Open your Anaconda Prompt and type and run the following command (individually):
 
-  pip install pandas
-  pip install numpy  
-  pip install plotly
-  pip install jupyterthemes
-  pip install seaborn
-  pip install --upgrade pip
-  pip install xgboost
+ # pip install pandas
+ # pip install numpy  
+ # pip install plotly
+ # pip install jupyterthemes
+ # pip install seaborn
+ # pip install --upgrade pip
+ # pip install xgboost
